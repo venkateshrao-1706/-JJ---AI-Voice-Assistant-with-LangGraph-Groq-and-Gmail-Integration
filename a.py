@@ -24,7 +24,7 @@ client = Groq(api_key = os.getenv("GROQ_API_KEY"))
 # 1. Sign in to Gmail with read-only permission
 credentials = get_google_credentials(
     token_file="token.json",
-    client_secrets_file="C:/Users/venka/OneDrive/Documents/RERSUME FOR VENKATESH/credentials.json",
+    client_secrets_file="credentials.json",
     scopes=["https://www.googleapis.com/auth/gmail.readonly"]
 )
 
