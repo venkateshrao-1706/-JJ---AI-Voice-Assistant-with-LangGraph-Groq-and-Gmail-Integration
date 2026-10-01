@@ -1,0 +1,410 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the difference between full-time and part-time employees?",
+    "section": "Employment basics > Employment contract types",
+    "expected_answer": "Full-time employees work at least [30 hours] per week or [130 hours] per month on average. Part-time employees work fewer than [30 hours] per week.",
+    "evidence": "Full-time employees work at least",
+    "answer_keywords": [
+      "full-time",
+      "30 hours"
+    ]
+  },
+  {
+    "id": "q02",
+    "question": "What does at-will employment mean in the U.S.?",
+    "section": "Employment basics > Employment contract types",
+    "expected_answer": "Either the employee or the company may end the employment relationship at any time and for any non-discriminatory reason.",
+    "evidence": "may terminate our employment relationship at any time",
+    "answer_keywords": [
+      "at any time|anytime",
+      "discriminatory"
+    ]
+  },
+  {
+    "id": "q03",
+    "question": "Which characteristics are protected under the equal opportunity policy?",
+    "section": "Employment basics > Equal opportunity employment",
+    "expected_answer": "Gender, age, sexual orientation, race, nationality, ethnicity, religion, disability and veteran status.",
+    "evidence": "gender, age, sexual orientation, race, nationality",
+    "answer_keywords": [
+      "sexual orientation",
+      "veteran"
+    ]
+  },
+  {
+    "id": "q04",
+    "question": "Will the company punish me if I file a discrimination complaint?",
+    "section": "Employment basics > Equal opportunity employment",
+    "expected_answer": "No. The company will not retaliate, and any employee who retaliates or discriminates will face disciplinary action.",
+    "evidence": "will not retaliate against you if you file a complaint",
+    "answer_keywords": [
+      "retaliat"
+    ]
+  },
+  {
+    "id": "q05",
+    "question": "When are background checks run on job candidates?",
+    "section": "Employment basics > Background checks",
+    "expected_answer": "Only for finalists, using the contracted provider and with the candidate's permission. Ask HR for guidance first.",
+    "evidence": "commission a background check for finalists only",
+    "answer_keywords": [
+      "finalists"
+    ]
+  },
+  {
+    "id": "q06",
+    "question": "How much is the employee referral bonus?",
+    "section": "Employment basics > Referrals",
+    "expected_answer": "[$3000], or a trip or coupons. It can be higher for hard-to-fill roles, for example [$6000] for a Data Scientist.",
+    "evidence": "referral bonus or",
+    "answer_keywords": [
+      "3000|3,000"
+    ]
+  },
+  {
+    "id": "q07",
+    "question": "If two employees refer the same candidate, who gets the reward?",
+    "section": "Employment basics > Referrals",
+    "expected_answer": "Only the first referrer receives the referral incentives.",
+    "evidence": "refer the same candidate, only the first referrer",
+    "answer_keywords": [
+      "first"
+    ]
+  },
+  {
+    "id": "q08",
+    "question": "What should I do if an emergency stops me from coming to work?",
+    "section": "Employment basics > Attendance",
+    "expected_answer": "Contact your manager as soon as possible. Unreported absences are excused only in cases like serious accidents or acute medical emergencies.",
+    "evidence": "contact your manager as soon as possible",
+    "answer_keywords": [
+      "manager"
+    ]
+  },
+  {
+    "id": "q09",
+    "question": "What counts as confidential information?",
+    "section": "Workplace policies > Confidentiality and data protection",
+    "expected_answer": "Employee records, unpublished financial information, data of customers/partners/vendors, customer lists, and unpublished goals, forecasts and initiatives marked as confidential.",
+    "evidence": "Unpublished financial information",
+    "answer_keywords": [
+      "employee records",
+      "customer"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "What happens to an employee who leaks confidential information for personal profit?",
+    "section": "Workplace policies > Confidentiality and data protection",
+    "expected_answer": "They will be terminated.",
+    "evidence": "terminate any employee who breaches our confidentiality guidelines",
+    "answer_keywords": [
+      "terminat"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Who can I talk to if I am being harassed at work?",
+    "section": "Workplace policies > Harassment and violence > Workplace harassment",
+    "expected_answer": "The offender (for minor cases), your manager, or HR. HR can be contacted for any case, and anything disclosed remains confidential.",
+    "evidence": "reach out to HR in any case of harassment",
+    "answer_keywords": [
+      "offender|directly",
+      "manager"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "If you suspect that an offender doesn't realize they are guilty of harassment, you could talk to them directly. When is this approach appropriate?",
+    "section": "Workplace policies > Harassment and violence > Workplace harassment",
+    "expected_answer": "It is appropriate for minor harassment, such as inappropriate jokes between colleagues. Avoid it with customers or stakeholders.",
+    "evidence": "talk to them directly in an effort to resolve the harassment",
+    "answer_keywords": [
+      "minor"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "What is the penalty for sexual harassment?",
+    "section": "Workplace policies > Harassment and violence > Workplace harassment",
+    "expected_answer": "Reports are seriously investigated and an employee found guilty will be terminated.",
+    "evidence": "found guilty of sexual harassment, they will be terminated",
+    "answer_keywords": [
+      "terminat"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "What should I do if I see someone being severely violent at work?",
+    "section": "Workplace policies > Harassment and violence > Workplace violence",
+    "expected_answer": "Call the building's security and avoid getting involved for your own safety.",
+    "evidence": "if you witness incidents of severe physical violence",
+    "answer_keywords": [
+      "security"
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Where am I allowed to smoke?",
+    "section": "Workplace policies > Workplace safety and health > Smoking",
+    "expected_answer": "Only in designated smoking areas, balconies, open-air verandas and outer premises like gardens and sidewalks. Everywhere else is smoke-free.",
+    "evidence": "is a smoke-free workplace",
+    "answer_keywords": [
+      "designated"
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "Can I drink alcohol at work?",
+    "section": "Workplace policies > Drug-free workplace > Alcohol",
+    "expected_answer": "Not during working hours, but alcoholic drinks in moderation are allowed at company events.",
+    "evidence": "prohibit employees from consuming alcohol during working hours",
+    "answer_keywords": [
+      "moderation"
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "Is medical marijuana allowed at work?",
+    "section": "Workplace policies > Drug-free workplace > Prescription drugs",
+    "expected_answer": "You [must not] use it in the workplace, and you may be terminated if off-duty use stops you from doing your job correctly.",
+    "evidence": "use medical marijuana in our workplace",
+    "answer_keywords": [
+      "must not|not allowed|not permitted|cannot|can't|prohibited",
+      "terminat"
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Can I use the company internet for personal things?",
+    "section": "Employee Code of Conduct > Cyber security and digital devices > Internet usage",
+    "expected_answer": "Occasionally, as long as it does not interfere with your job responsibilities. Stop activities that slow the connection if asked.",
+    "evidence": "you can occasionally use our connection for personal purposes",
+    "answer_keywords": [
+      "occasional",
+      "interfere"
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "Can I use my corporate email for personal reasons?",
+    "section": "Employee Code of Conduct > Cyber security and digital devices > Corporate email",
+    "expected_answer": "Yes, if you keep it safe, avoid spamming and do not disclose confidential information.",
+    "evidence": "use your email for personal reasons as long as you keep it safe",
+    "answer_keywords": [
+      "spam",
+      "confidential"
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "Can a manager date someone who reports to them?",
+    "section": "Employee Code of Conduct > Employee relationships > Fraternization",
+    "expected_answer": "No. Supervisors must not date their direct reports, and this extends to every manager above an employee.",
+    "evidence": "supervisors must not date their direct reports",
+    "answer_keywords": [
+      "direct report|subordinate"
+    ]
+  },
+  {
+    "id": "q21",
+    "question": "Can I hire my partner onto my team?",
+    "section": "Employee Code of Conduct > Employee relationships > Dating managers",
+    "expected_answer": "No, not if you are a hiring manager for that team. You can refer them to teams where you have no managerial or hiring authority.",
+    "evidence": "allowed to hire your partner to your team",
+    "answer_keywords": [
+      "refer"
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "What is the difference between exempt and non-exempt employees?",
+    "section": "Compensation & development > Compensation status",
+    "expected_answer": "Non-exempt employees are covered by FLSA minimum wage and overtime rules. Exempt employees are not covered because they meet three criteria: salary threshold, salary basis, and exempt job duties.",
+    "evidence": "Non-exempt employees, who are covered by the FLSA",
+    "answer_keywords": [
+      "overtime|minimum wage",
+      "exempt"
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "How much overtime pay does a non-exempt employee get?",
+    "section": "Compensation & development > Overtime",
+    "expected_answer": "One and a half times their wage. Overtime should be authorized by the supervisor first.",
+    "evidence": "entitled to overtime pay of one and a half times your wage",
+    "answer_keywords": [
+      "one and a half|1.5|time and a half",
+      "authorized|approved"
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "Do performance reviews guarantee a raise or bonus?",
+    "section": "Compensation & development > Performance management",
+    "expected_answer": "No. Pay increases or bonuses are not guaranteed, but managers are encouraged to recommend rewards for deserving team members.",
+    "evidence": "Pay increases or bonuses are not guaranteed",
+    "answer_keywords": [
+      "not guaranteed|aren't guaranteed|no guarantee|isn't guaranteed"
+    ]
+  },
+  {
+    "id": "q25",
+    "question": "How much money can I spend on learning and training each year?",
+    "section": "Compensation & development > Employee training and development",
+    "expected_answer": "[$1,000] per employee annually for educational activities or material.",
+    "evidence": "annually to spend on educational activities or material",
+    "answer_keywords": [
+      "1,000|1000"
+    ]
+  },
+  {
+    "id": "q26",
+    "question": "How often can I work from home and how much notice do I need to give?",
+    "section": "Benefits and perks > Work from home",
+    "expected_answer": "Normally [one day per week]. Tell your manager at least [two days] in advance. In a rare emergency, work from home and contact your manager as soon as possible.",
+    "evidence": "We normally allow",
+    "answer_keywords": [
+      "one day|1 day",
+      "manager"
+    ]
+  },
+  {
+    "id": "q27",
+    "question": "How long can an office-based employee work remotely?",
+    "section": "Benefits and perks > Remote working",
+    "expected_answer": "A maximum of [two consecutive weeks] per year, for example for a new parent or short-term disability. Submit the request at least [one week] in advance.",
+    "evidence": "may work remotely for a maximum of",
+    "answer_keywords": [
+      "two consecutive weeks|two weeks|2 weeks"
+    ]
+  },
+  {
+    "id": "q28",
+    "question": "What should I do if I have an accident in a company car?",
+    "section": "Benefits and perks > Company car > Accidents",
+    "expected_answer": "Contact HR immediately so they can reach the insurance provider. Do not accept responsibility or guarantee payment to another person without authorization.",
+    "evidence": "involved in an accident with a company car",
+    "answer_keywords": [
+      "immediately",
+      "responsibility"
+    ]
+  },
+  {
+    "id": "q29",
+    "question": "How many days of paid time off do employees get?",
+    "section": "Time > Paid time off (PTO)",
+    "expected_answer": "[20 days] per year, accruing at [1.7 days per month], with one extra day per year after the first year, capped at [25 days].",
+    "evidence": "Employees receive [20 days] of Paid Time Off",
+    "answer_keywords": [
+      "20 days"
+    ]
+  },
+  {
+    "id": "q30",
+    "question": "Do I have to explain why I want to take PTO?",
+    "section": "Time > Paid time off (PTO)",
+    "expected_answer": "No. You do not have to specify a reason, just send a request and get approval.",
+    "evidence": "You do not have to specify a reason for requesting PTO",
+    "answer_keywords": [
+      "not have to|don't have to|do not need|no need|not required|no reason|not necessary"
+    ]
+  },
+  {
+    "id": "q31",
+    "question": "How much sick leave is offered and when might I need a doctor's note?",
+    "section": "Time > Sick leave",
+    "expected_answer": "[One week] of [paid] sick leave. A physician's note or medical certification may be requested if absent for more than [three days].",
+    "evidence": "We offer [one week] of [paid] sick leave",
+    "answer_keywords": [
+      "one week|1 week",
+      "note|certification|three days|3 days"
+    ]
+  },
+  {
+    "id": "q32",
+    "question": "How long is maternity and paternity leave?",
+    "section": "Time > Parental leave > Paternity and maternity leave",
+    "expected_answer": "[Three months] of paid leave, or longer if the law requires. Give at least [three months] notice.",
+    "evidence": "of paid maternity and paternity leave",
+    "answer_keywords": [
+      "three months|3 months"
+    ]
+  },
+  {
+    "id": "q33",
+    "question": "What are the steps of the progressive discipline process?",
+    "section": "Leaving our company > Progressive discipline",
+    "expected_answer": "Six steps: verbal warning, informal meeting with supervisor, formal reprimand, formal disciplinary meeting, penalties, termination.",
+    "evidence": "Informal meeting with supervisor",
+    "answer_keywords": [
+      "verbal warning",
+      "termination"
+    ]
+  },
+  {
+    "id": "q34",
+    "question": "How much notice should I give before resigning?",
+    "section": "Leaving our company > Resignation",
+    "expected_answer": "No advance notice is required, but at least [two weeks] is asked for, and [a month's] notice for specialized or executive positions.",
+    "evidence": "give at least [two weeks] notice",
+    "answer_keywords": [
+      "two weeks|2 weeks"
+    ]
+  },
+  {
+    "id": "q35",
+    "question": "What is constructive dismissal?",
+    "section": "Leaving our company > Forced resignation",
+    "expected_answer": "Forcing someone into resigning, directly or indirectly. The company prohibits it, including creating a hostile environment, coaxing resignation, retaliation, or unofficial adverse actions like demotions.",
+    "evidence": "is constructive dismissal",
+    "answer_keywords": [
+      "forc",
+      "resign"
+    ]
+  },
+  {
+    "id": "q36",
+    "question": "What is the difference between for-cause and without-cause termination?",
+    "section": "Leaving our company > Termination",
+    "expected_answer": "For cause: breach of contract, illegal activity, disruption, poor performance or damage to the company. Without cause: redundancies or layoffs when operations stop or duties are reassigned.",
+    "evidence": "Without cause termination refers to redundancies or layoffs",
+    "answer_keywords": [
+      "layoff|redundanc",
+      "cause"
+    ]
+  },
+  {
+    "id": "u01",
+    "question": "What is the company's stock option or equity policy?",
+    "section": "NOT IN HANDBOOK",
+    "expected_answer": "Not covered. The system should say it couldn't find this in the handbook.",
+    "evidence": "",
+    "answer_keywords": []
+  },
+  {
+    "id": "u02",
+    "question": "How many days of leave do I get when I get married?",
+    "section": "NOT IN HANDBOOK",
+    "expected_answer": "Not covered. The system should say it couldn't find this in the handbook.",
+    "evidence": "",
+    "answer_keywords": []
+  },
+  {
+    "id": "u03",
+    "question": "Are pets allowed in the office?",
+    "section": "NOT IN HANDBOOK",
+    "expected_answer": "Not covered. The system should say it couldn't find this in the handbook.",
+    "evidence": "",
+    "answer_keywords": []
+  },
+  {
+    "id": "u04",
+    "question": "Does the company match employee 401(k) contributions?",
+    "section": "NOT IN HANDBOOK",
+    "expected_answer": "Not covered. The system should say it couldn't find this in the handbook.",
+    "evidence": "",
+    "answer_keywords": []
+  }
+]
